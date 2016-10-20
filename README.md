@@ -52,7 +52,7 @@ recent version of Python.
   1. [**Concurrency**](not/README.md#user-content--concurrency)
   2. [**Slow**](not/README.md#user-content--slow)
   3. [**Not a Web Language**](not/README.md#user-content--not-a-web-language)
-  4. [**Not for Games, No PyGame**](not/README.md#user-content--not-for-games-no-pygame)
+  4. [**Not for Graphical Games, No PyGame**](not/README.md#user-content--not-for-graphical-games-no-pygame)
   5. [**No Python IDLE?**](not/README.md#user-content--no-python-idle)
 5. [**Short History of Python** (`history`)](history/README.md)
   1. [**Guido's Christmas Present Named After Monty Python**](history/README.md#user-content--guidos-christmas-present-named-after-monty-python)
