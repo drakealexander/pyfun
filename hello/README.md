@@ -219,6 +219,12 @@ to the very first line of your `hello` script file.
 print("Hello world!")
 ```
 
+> 💬 If you do not see the pretty Python syntax highlighting colors it
+> is because `vim` needs to know you are working with a Python file
+> and up until this moment (typing in the shebang line) had no way to
+> know. After you save and close you will see the colors the next time
+> you open the file.
+
 Now that we have given the shell this shebang hint and `chmod +x`-ed
 our script we can just run it with the script name dropping the
 `python3`.
