@@ -323,7 +323,7 @@ variable every time we want to run it, hummm.
 
 ## [⏫ Defining Our First ~~Procedure~~ Function](#)
 
-> Concepts: Defining Functions, Python Style Guidelines, PEP-008
+> Concepts: Defining Functions, Python Style Guidelines, PEP-0008
 
 Turns out there is a way, define a ***function*** containing the code
 in its *block*. Then you can call it three times for each food.

@@ -133,7 +133,7 @@ recent version of Python.
   8. [**Notice Any Patterns?**](waffles/README.md#user-content--notice-any-patterns)
       <br>💡 Redundancy ◦ Variables ◦ Assertions ◦ The Dude
   9. [**Defining Our First ~~Procedure~~ Function**](waffles/README.md#user-content--defining-our-first-procedure-function)
-      <br>💡 Defining Functions ◦ Python Style Guidelines ◦ PEP-008
+      <br>💡 Defining Functions ◦ Python Style Guidelines ◦ PEP-0008
   10. [**Handling the Other Exceptions**](waffles/README.md#user-content--handling-the-other-exceptions)
       <br>💡 Blue Sky Path ◦ Blue Sky Scenario
   11. [**Speaking of Lists (and Tuples)**](waffles/README.md#user-content--speaking-of-lists-and-tuples)
