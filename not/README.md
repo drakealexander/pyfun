@@ -63,11 +63,11 @@ be one–and preferably only one—obvious way to do it” and “one best
 way” then PyGame ain’t it—especially when things like [Phaser.io][],
 [PlayCanvas][], [Unity][], [Unreal Engine][], and [Electron][]
 exist. Front-end interfaces, games, and graphics are really dominated
-by web and native mobile technology.
+by technologies other than Python and likely always will be.
 
 > 💬 The same is true of the amazing [Kivy][] framework. As much as so many
-> of us want to see it succeed it just will never had the adoption
-> (and corporate backing) that the native and web alternatives will have.
+> of us want to see it succeed it just will never have the adoption
+> and corporate backing that the alternatives have now.
 
 Sure you could program some small game projects in PyGame for fun, but
 why not use an *actual* game framework and language for that and stick
