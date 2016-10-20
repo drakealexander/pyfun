@@ -433,7 +433,8 @@ print("Do, do, da, doop, can’t wait to get a mouthful.")
 
 ## [⏫ Handling the Other Exceptions](#)
 
-> Concepts: Blue Sky Path, Blue Sky Scenario
+> Concepts: Blue Sky Path, Blue Sky Scenario, Exceptional Path,
+> Exceptions
 
 What if someone says no? What if they say something other than "yes"
 that means yes? What if they *interrupt* the program with a
