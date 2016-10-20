@@ -44,11 +44,12 @@ to learn.  They are not the only ones. Many educational institutions
 have adopted Python as the first language any programming student
 learns.
 
-It is really unfortunate the makers of the AP Computer Science exam
-have not yet seen the practicality of moving as well. The awkward
-subset of Java remains the basis for all APCS material and test as
-does the now very outdated emphasis on single-inheritance over
-composition, but that is a conversation for another day.
+> 💬 It is really unfortunate the makers of the AP Computer Science exam
+> have not yet seen the practicality of moving to Python as well.
+> The awkward subset of Java remains the basis for all APCS
+> material and test as does the now very outdated emphasis on
+> single-inheritance over composition, but that is a conversation
+> for another day.
 
 ---
 [![home](/assets/home-bw.png)](/README.md)
