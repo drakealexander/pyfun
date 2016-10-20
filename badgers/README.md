@@ -12,6 +12,9 @@ repeat stuff for a specific number of times.
 
 ## [⏫ How many badgers is that again?](#)
 
+> Concepts: Counting, Infinite, Finite, Boolean, `while`,
+> Algorithms
+
 Let’s take a look. Can you count them?
 
 [![](/assets/badgers.gif)](https://youtu.be/EIyixC9NsLI)
@@ -32,19 +35,42 @@ Ok, so there are 12 of them, 2 mushrooms, and a snake:
 * 2 mushrooms
 
 These verses of the “song” will be our simple algorithm. Let’s code it
-and learn about ***finite loops*** in the process.
+and learn about ***finite loops*** in the process. These loops only
+repeat for a certain number of times.
 
 > 💬 You will remember we already learned about the
 > infinite version of the `while` loop (`while True`) in
-> [Nyan](/nyan/README.md). 
+> [Nyan](/nyan/README.md). That is where we learned the term
+> [Boolean](/nyan/README.md#user-content--true-or-false)
+> as well.
 
-## [⏫ How Long is True, True?](#)
+### [⏫ How Long is True, True?](#)
 
-> Concepts: Conditions, Booleans 
+Duh, forever right. Yeah that is a long time. That is ***infinite***.
+It never ends. There are other things that are infinite as well, like
+`1 == 1`, `2 + 2 == 4`
+
+> 💬 Don’t ever let anyone tell you there are not absolute truths in
+> the universe. There are.
+
+### Everything Must Come to an End
+
+Stuff that has an ending is ***finite***, like our lives, our program,
+and each verse of the song. Things that are ***finite*** can be
+measured and counted. This is what we will do in this program.
+
+## Teaching Our Program to Count
 
 TODO
 
 ## [⏫ Conclusion](#)
+
+Could the Badgers have taught us a lot about the nature of the
+Universe? Perhaps, but mostly they taught us how to teach our programs
+to count and do things after counting to certain numbers.
+
+> 🍎 Do not confuse finite counting loops with list iteration, which we
+> cover later.
 
 ## [⏫ Bonus Challenges](#)
 
