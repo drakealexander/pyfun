@@ -13,7 +13,8 @@
  1. [**Why not just use `if answer == "no"`?**](#user-content--why-not-just-use-if-answer--no)
 8. [**Notice Any Patterns?**](#user-content--notice-any-patterns)
 9. [**Defining Our First ~~Procedure~~ Function**](#user-content--defining-our-first-procedure-function)
- 1. [**Assertions**](#user-content--assertions)
+ 1. [**Keeping Python Stylish**](#user-content--keeping-python-stylish)
+ 2. [**Assertions**](#user-content--assertions)
 10. [**Handling the Other Exceptions**](#user-content--handling-the-other-exceptions)
  1. [**Blue Sky Path and Exceptional Path**](#user-content--blue-sky-path-and-exceptional-path)
 11. [**Speaking of Lists (and Tuples)**](#user-content--speaking-of-lists-and-tuples)
@@ -348,7 +349,7 @@ print("Do, do, da, doop, can’t wait to get a mouthful.")
 > a function and a procedure, which no one really distinguishes
 > anymore but we can for grins.
 
-### Keeping Python Stylish
+### [⏫ Keeping Python Stylish](#)
 
 When you hear the word *style* you probably think of clothes more than
 you would code and programming but, believe me, there is plenty of

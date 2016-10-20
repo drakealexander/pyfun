@@ -1,104 +1,63 @@
 {
+  "summary": "",
   "parts": {
-    "bincount": {
-      "parts": [],
-      "title": "Binary Counter"
-    },
-    "gen": {
-      "parts": [],
-      "title": "Character Generator"
-    },
-    "battleship": {
-      "parts": [],
-      "title": "Hi There!"
-    },
-    "not": {
-      "parts": [
-        {
-          "short": "concurrency",
-          "title": "Concurrency",
-          "concepts": []
-        },
-        {
-          "short": "not-a-web-language",
-          "title": "Not a Web Language",
-          "concepts": []
-        },
-        {
-          "short": "slow",
-          "title": "Slow",
-          "concepts": []
-        },
-        {
-          "short": "no-python-idle",
-          "title": "No Python IDLE?",
-          "concepts": []
-        }
-      ],
-      "title": "When Not to Pick Python"
-    },
-    "quiz": {
-      "parts": [],
-      "title": "Quiz Game"
-    },
     "nyan": {
+      "title": "Nyan, Nyan, STOP!",
       "parts": [
         {
+          "concepts": [],
           "short": "nyan-what",
-          "title": "Nyan What?",
-          "concepts": []
+          "title": "Nyan What?"
         },
         {
+          "concepts": [],
           "short": "the-usual",
-          "title": "The Usual",
-          "concepts": []
+          "title": "The Usual"
         },
         {
-          "short": "true-or-false",
-          "title": "True or False",
           "concepts": [
             "Booleans",
             "Types",
             "`True`",
             "`False`"
-          ]
+          ],
+          "short": "true-or-false",
+          "title": "True or False"
         },
         {
-          "short": "loop-it",
-          "title": "Loop It",
           "concepts": [
             "`while`",
             "Infinite Loops",
             "End of the World"
-          ]
+          ],
+          "short": "loop-it",
+          "title": "Loop It"
         },
         {
-          "short": "in-your-block",
-          "title": "In Your Block",
           "concepts": [
             "Code Blocks",
             "`:`"
-          ]
+          ],
+          "short": "in-your-block",
+          "title": "In Your Block"
         },
         {
-          "short": "indenting-with-vim",
-          "title": "Indenting with `vim`",
           "concepts": [
             "`>>`",
             "`<<`",
             "`vim`"
-          ]
+          ],
+          "short": "indenting-with-vim",
+          "title": "Indenting with `vim`"
         },
         {
-          "short": "spaces-and-tabs-that-matter",
-          "title": "Spaces and Tabs that Matter",
           "concepts": [
             "Significant White Space"
-          ]
+          ],
+          "short": "spaces-and-tabs-that-matter",
+          "title": "Spaces and Tabs that Matter"
         },
         {
-          "short": "make-is-stop",
-          "title": "Make is STOP!",
           "concepts": [
             "Interrupts",
             "`KeyboardInterrupt`",
@@ -107,22 +66,22 @@
             "`ctrl-z`",
             "`ctrl-x`",
             "Why NO `nano`"
-          ]
+          ],
+          "short": "make-is-stop",
+          "title": "Make is STOP!"
         },
         {
-          "short": "catching-and-trapping-exceptions",
-          "title": "Catching and Trapping Exceptions",
           "concepts": [
             "Exceptions",
             "`try:`",
             "`except:`",
             "Blue-Sky Scenario",
             "`exit()`"
-          ]
+          ],
+          "short": "catching-and-trapping-exceptions",
+          "title": "Catching and Trapping Exceptions"
         },
         {
-          "short": "printing-to-same-line",
-          "title": "Printing to Same Line",
           "concepts": [
             "`print()`",
             "`end=\" \"`",
@@ -130,99 +89,96 @@
             "`flush=True`",
             "`\\n`",
             "Line Returns"
-          ]
+          ],
+          "short": "printing-to-same-line",
+          "title": "Printing to Same Line"
         },
         {
+          "concepts": [],
           "short": "conclusion",
-          "title": "Conclusion",
-          "concepts": []
+          "title": "Conclusion"
         },
         {
+          "concepts": [],
           "short": "bonus-challenges",
-          "title": "Bonus Challenges",
-          "concepts": []
+          "title": "Bonus Challenges"
         }
-      ],
-      "title": "Nyan, Nyan, STOP!"
+      ]
     },
-    "pokeapi": {
+    "quiz": {
       "parts": [],
-      "title": "Pokemon API"
+      "title": "Quiz Game"
     },
-    "why": {
+    "bincount": {
+      "parts": [],
+      "title": "Binary Counter"
+    },
+    "hi": {
+      "title": "Hi There!",
       "parts": [
         {
-          "short": "easy",
-          "title": "Easy",
-          "concepts": [
-            "Best First Language",
-            "MIT",
-            "`ghc`"
-          ]
+          "concepts": [],
+          "short": "the-usual",
+          "title": "The Usual"
         },
         {
-          "short": "everywhere",
-          "title": "Everywhere",
-          "concepts": []
+          "concepts": [
+            "Variables",
+            "Operators",
+            "`=`",
+            "Constants"
+          ],
+          "short": "replacing-world",
+          "title": "Replacing World"
         },
         {
-          "short": "powerful",
-          "title": "Powerful",
           "concepts": [
-            "Python C Extensions",
-            "Data Science",
-            "Premature Optimization"
-          ]
+            "`input()`"
+          ],
+          "short": "prompting-for-input",
+          "title": "Prompting for Input"
         },
         {
-          "short": "versatile",
-          "title": "Versatile",
           "concepts": [
-            "One Best Way",
-            "Beat Perl"
-          ]
+            "Assignment",
+            "Assignment Operator",
+            "`=`",
+            "Operator",
+            "Operand"
+          ],
+          "short": "where-is-your-assignment",
+          "title": "Where is Your Assignment?"
         },
         {
-          "short": "mature",
-          "title": "Mature",
           "concepts": [
-            "Python 2 v.s. 3",
-            "Libraries"
-          ]
+            "Functions",
+            "Procedures",
+            "Side Effects",
+            "Functional Programming Paradigm"
+          ],
+          "short": "difference-between-functions-and-procedures",
+          "title": "Difference Between Functions and Procedures"
+        },
+        {
+          "concepts": [
+            "REPL",
+            "Interactive Text Adventures",
+            "Stories"
+          ],
+          "short": "conclusion",
+          "title": "Conclusion"
         }
-      ],
-      "title": "Why Python?"
-    },
-    "history": {
-      "parts": [
-        {
-          "short": "guidos-christmas-present-named-after-monty-python",
-          "title": "Guido's Christmas Present Named After Monty Python",
-          "concepts": []
-        },
-        {
-          "short": "whitespace-novelty",
-          "title": "Whitespace Novelty",
-          "concepts": []
-        },
-        {
-          "short": "best-first-language-to-learn",
-          "title": "Best First Language to Learn",
-          "concepts": []
-        }
-      ],
-      "title": "Short History of Python"
+      ]
     },
     "hello": {
+      "title": "Hello World",
       "parts": [
         {
+          "concepts": [],
           "short": "history",
-          "title": "History",
-          "concepts": []
+          "title": "History"
         },
         {
-          "short": "touch-and-chmod",
-          "title": "Touch and Chmod",
           "concepts": [
             "`touch`",
             "`chmod +x`",
@@ -231,11 +187,11 @@
             "Runnable",
             "File",
             "Script"
-          ]
+          ],
+          "short": "touch-and-chmod",
+          "title": "Touch and Chmod"
         },
         {
-          "short": "printing-text-to-the-screen",
-          "title": "Printing Text to the Screen",
           "concepts": [
             "`print()`",
             "Strings",
@@ -243,11 +199,11 @@
             "`vim`",
             "`vi`",
             "Code Birthday"
-          ]
+          ],
+          "short": "printing-text-to-the-screen",
+          "title": "Printing Text to the Screen"
         },
         {
-          "short": "files-and-path",
-          "title": "Files and `PATH`",
           "concepts": [
             "Files",
             "`$PATH`",
@@ -264,22 +220,22 @@
             "`./`",
             "`../`",
             "`~`"
-          ]
+          ],
+          "short": "files-and-path",
+          "title": "Files and `PATH`"
         },
         {
-          "short": "shuh-to-the-bang",
-          "title": "Shuh to the Bang",
           "concepts": [
             "Shebang Line",
             "`#!`",
             "`env`",
             "File System",
             "Path"
-          ]
+          ],
+          "short": "shuh-to-the-bang",
+          "title": "Shuh to the Bang"
         },
         {
-          "short": "color-things-up",
-          "title": "Color Things Up",
           "concepts": [
             "`import`",
             "`colors`",
@@ -290,158 +246,179 @@
             "`c.random()`",
             "`c.multi()`",
             "`c.clear`"
-          ]
+          ],
+          "short": "color-things-up",
+          "title": "Color Things Up"
         },
         {
-          "short": "spinning-emoji-earth-globe",
-          "title": "Spinning Emoji Earth Globe",
           "concepts": [
             "Unicode",
             "Code for the World",
             "Emojis",
             "`from`",
             "`import`"
-          ]
+          ],
+          "short": "spinning-emoji-earth-globe",
+          "title": "Spinning Emoji Earth Globe"
         },
         {
-          "short": "beads-on-a-necklace",
-          "title": "Beads on a Necklace",
           "concepts": [
             "Strings",
             "Quotes",
             "`Join Operator`",
             "`+`"
-          ]
+          ],
+          "short": "beads-on-a-necklace",
+          "title": "Beads on a Necklace"
         },
         {
-          "short": "action",
-          "title": "Action",
           "concepts": [
             "Actions",
             "Functions",
             "Function Call"
-          ]
+          ],
+          "short": "action",
+          "title": "Action"
         },
         {
-          "short": "paying-for-air",
-          "title": "Paying for Air",
           "concepts": [
             "Arguments",
             "Parameters"
-          ]
+          ],
+          "short": "paying-for-air",
+          "title": "Paying for Air"
         },
         {
-          "short": "final-comment",
-          "title": "Final Comment",
           "concepts": [
             "Comments",
             "`'''`",
             "`\"\"\"`",
             "`pydoc3`",
             "`pydoc`"
-          ]
+          ],
+          "short": "final-comment",
+          "title": "Final Comment"
         },
         {
-          "short": "do-it-again",
-          "title": "Do It Again",
           "concepts": [
             "Repetition",
             "Athletic Software Engineering"
-          ]
+          ],
+          "short": "do-it-again",
+          "title": "Do It Again"
         },
         {
+          "concepts": [],
           "short": "conclusion",
-          "title": "Conclusion",
-          "concepts": []
+          "title": "Conclusion"
         }
-      ],
-      "title": "Hello World"
+      ]
     },
-    "mtable": {
-      "parts": [],
-      "title": "Multiplication Tables"
-    },
-    "story": {
-      "parts": [],
-      "title": "Story"
-    },
-    "simon": {
-      "parts": [],
-      "title": "Simon"
+    "history": {
+      "title": "Short History of Python",
+      "parts": [
+        {
+          "concepts": [],
+          "short": "guidos-christmas-present-named-after-monty-python",
+          "title": "Guido's Christmas Present Named After Monty Python"
+        },
+        {
+          "concepts": [],
+          "short": "whitespace-novelty",
+          "title": "Whitespace Novelty"
+        },
+        {
+          "concepts": [],
+          "short": "best-first-language-to-learn",
+          "title": "Best First Language to Learn"
+        }
+      ]
     },
     "rps": {
       "parts": [],
       "title": "Rock, Paper, Scissors"
     },
-    "madforms": {
-      "parts": [],
-      "title": "Mad Forms"
-    },
-    "roll": {
-      "parts": [],
-      "title": "Dice Roll"
-    },
-    "guess": {
-      "parts": [],
-      "title": "Guess"
-    },
-    "wordbomb": {
-      "parts": [],
-      "title": "Word Bomb"
-    },
-    "waffles": {
+    "not": {
+      "title": "When Not to Pick Python",
       "parts": [
         {
-          "short": "an-ancient-meme",
-          "title": "An Ancient Meme?",
-          "concepts": []
+          "concepts": [],
+          "short": "concurrency",
+          "title": "Concurrency"
         },
         {
-          "short": "the-usual",
-          "title": "The Usual",
+          "concepts": [],
+          "short": "not-a-web-language",
+          "title": "Not a Web Language"
+        },
+        {
+          "concepts": [],
+          "short": "slow",
+          "title": "Slow"
+        },
+        {
+          "concepts": [],
+          "short": "no-python-idle",
+          "title": "No Python IDLE?"
+        }
+      ]
+    },
+    "bridge": {
+      "parts": [],
+      "title": "Bridge Keeper"
+    },
+    "waffles": {
+      "title": "Do You Like Waffles?",
+      "parts": [
+        {
+          "concepts": [],
+          "short": "an-ancient-meme",
+          "title": "An Ancient Meme?"
+        },
+        {
           "concepts": [
             "Boilerplate",
             "`bin`"
-          ]
+          ],
+          "short": "the-usual",
+          "title": "The Usual"
         },
         {
-          "short": "do-you-like-waffles",
-          "title": "Do you like waffles?",
           "concepts": [
             "`input()`"
-          ]
+          ],
+          "short": "do-you-like-waffles",
+          "title": "Do you like waffles?"
         },
         {
-          "short": "logic-is-a-little-tweeting-bird",
-          "title": "Logic is a Little Tweeting Bird",
           "concepts": [
             "Logic",
             "`if`",
             "`else`",
             "Conditions"
-          ]
+          ],
+          "short": "logic-is-a-little-tweeting-bird",
+          "title": "Logic is a Little Tweeting Bird"
         },
         {
-          "short": "the-difference-between-equality-and-assignment",
-          "title": "The Difference Between Equality and Assignment",
           "concepts": [
             "`=`",
             "`==`",
             "Is Equal To",
             "Assign"
-          ]
+          ],
+          "short": "the-difference-between-equality-and-assignment",
+          "title": "The Difference Between Equality and Assignment"
         },
         {
-          "short": "a-big-nest",
-          "title": "A Big Nest",
           "concepts": [
             "Nested Code Blocks",
             "Shallow Nesting by Design"
-          ]
+          ],
+          "short": "a-big-nest",
+          "title": "A Big Nest"
         },
         {
-          "short": "trimming-the-nest",
-          "title": "Trimming the Nest",
           "concepts": [
             "Refactoring",
             "Code Maintenance",
@@ -451,41 +428,43 @@
             "Conditional Modifiers",
             "`not`",
             "Checking for Good not Bad"
-          ]
+          ],
+          "short": "trimming-the-nest",
+          "title": "Trimming the Nest"
         },
         {
-          "short": "notice-any-patterns",
-          "title": "Notice Any Patterns?",
           "concepts": [
             "Redundancy",
             "Variables",
             "Assertions",
             "The Dude"
-          ]
+          ],
+          "short": "notice-any-patterns",
+          "title": "Notice Any Patterns?"
         },
         {
-          "short": "defining-our-first-procedure-function",
-          "title": "Defining Our First ~~Procedure~~ Function",
           "concepts": [
-            "Defining Functions"
-          ]
+            "Defining Functions",
+            "Python Style Guidelines",
+            "PEP-008"
+          ],
+          "short": "defining-our-first-procedure-function",
+          "title": "Defining Our First ~~Procedure~~ Function"
         },
         {
-          "short": "handling-the-other-exceptions",
-          "title": "Handling the Other Exceptions",
           "concepts": [
             "Blue Sky Path",
             "Blue Sky Scenario"
-          ]
+          ],
+          "short": "handling-the-other-exceptions",
+          "title": "Handling the Other Exceptions"
         },
         {
+          "concepts": [],
           "short": "speaking-of-lists-and-tuples",
-          "title": "Speaking of Lists (and Tuples)",
-          "concepts": []
+          "title": "Speaking of Lists (and Tuples)"
         },
         {
-          "short": "exception-user-enters-variation-of-yes",
-          "title": "Exception: User Enters Variation of `yes`",
           "concepts": [
             "Compound Conditions",
             "`or`",
@@ -499,86 +478,102 @@
             "Order of Operations",
             "`()`",
             "Regular Expressions"
-          ]
+          ],
+          "short": "exception-user-enters-variation-of-yes",
+          "title": "Exception: User Enters Variation of `yes`"
         },
         {
-          "short": "exception-user-includes-spaces",
-          "title": "Exception: User Includes Spaces",
           "concepts": [
             "Trimming Whitespace",
             "`.trim()`",
             "`.ltrim()`",
             "`.rtrim()`"
-          ]
+          ],
+          "short": "exception-user-includes-spaces",
+          "title": "Exception: User Includes Spaces"
         },
         {
-          "short": "exception-user-interrupts-with-ctrl-c",
-          "title": "Exception: User Interrupts with `ctrl-c`",
           "concepts": [
             "Catching Multiple Exceptions",
             "`except`",
             "`KeyboardError`"
-          ]
+          ],
+          "short": "exception-user-interrupts-with-ctrl-c",
+          "title": "Exception: User Interrupts with `ctrl-c`"
         },
         {
+          "concepts": [],
           "short": "conclusion",
-          "title": "Conclusion",
-          "concepts": []
+          "title": "Conclusion"
         },
         {
+          "concepts": [],
           "short": "bonus-challenges",
-          "title": "Bonus Challenges",
-          "concepts": []
+          "title": "Bonus Challenges"
         }
-      ],
-      "title": "Do You Like Waffles?"
+      ]
     },
-    "arena": {
-      "parts": [],
-      "title": "Arena"
-    },
-    "badgers": {
+    "why": {
+      "title": "Why Python?",
       "parts": [
         {
-          "short": "how-many-badgers-is-that-again",
-          "title": "How many badgers is that again?",
-          "concepts": []
-        },
-        {
-          "short": "how-long-is-true-true",
-          "title": "How Long is True, True?",
           "concepts": [
-            "Conditions",
-            "Booleans"
-          ]
+            "Best First Language",
+            "MIT",
+            "`ghc`"
+          ],
+          "short": "easy",
+          "title": "Easy"
         },
         {
-          "short": "conclusion",
-          "title": "Conclusion",
-          "concepts": []
+          "concepts": [],
+          "short": "everywhere",
+          "title": "Everywhere"
         },
         {
-          "short": "bonus-challenges",
-          "title": "Bonus Challenges",
-          "concepts": []
+          "concepts": [
+            "Python C Extensions",
+            "Data Science",
+            "Premature Optimization"
+          ],
+          "short": "powerful",
+          "title": "Powerful"
+        },
+        {
+          "concepts": [
+            "One Best Way",
+            "Beat Perl"
+          ],
+          "short": "versatile",
+          "title": "Versatile"
+        },
+        {
+          "concepts": [
+            "Python 2 v.s. 3",
+            "Libraries"
+          ],
+          "short": "mature",
+          "title": "Mature"
         }
-      ],
-      "title": "Badgers, Badgers, Badgers"
+      ]
+    },
+    "guess": {
+      "parts": [],
+      "title": "Guess"
     },
     "docs": {
+      "title": "Checking the Python Docs",
       "parts": [
         {
-          "short": "make-sure-python3",
-          "title": "Make Sure Python3",
           "concepts": [
             "`docs.python.org`",
             "Standard Documentation",
             "Python Versions"
-          ]
+          ],
+          "short": "make-sure-python3",
+          "title": "Make Sure Python3"
         },
         {
-          "short": "pydoc",
-          "title": "Pydoc",
           "concepts": [
             "`pydoc3`",
             "Comments",
@@ -588,213 +583,220 @@
             "`| more`",
             "`more`",
             "UNIX Pipeline"
-          ]
+          ],
+          "short": "pydoc",
+          "title": "Pydoc"
         },
         {
-          "short": "manual-man-pages",
-          "title": "Manual `man` Pages",
           "concepts": [
             "Man Pages",
             "`man`"
-          ]
+          ],
+          "short": "manual-man-pages",
+          "title": "Manual `man` Pages"
         }
-      ],
-      "title": "Checking the Python Docs"
+      ]
     },
-    "more": {
+    "madforms": {
+      "parts": [],
+      "title": "Mad Forms"
+    },
+    "badgers": {
       "parts": [
         {
-          "short": "dive-into-python-3",
-          "title": "Dive Into Python 3",
-          "concepts": []
+          "concepts": [],
+          "short": "how-many-badgers-is-that-again",
+          "title": "How many badgers is that again?"
         },
         {
-          "short": "warning",
-          "title": "Warning",
-          "concepts": []
-        }
-      ],
-      "title": "More Python3 Learning Resources"
-    },
-    "hi": {
-      "parts": [
-        {
-          "short": "the-usual",
-          "title": "The Usual",
-          "concepts": []
-        },
-        {
-          "short": "replacing-world",
-          "title": "Replacing World",
           "concepts": [
-            "Variables",
-            "Operators",
-            "`=`",
-            "Constants"
-          ]
+            "Conditions",
+            "Booleans"
+          ],
+          "short": "how-long-is-true-true",
+          "title": "How Long is True, True?"
         },
         {
-          "short": "prompting-for-input",
-          "title": "Prompting for Input",
-          "concepts": [
-            "`input()`"
-          ]
-        },
-        {
-          "short": "where-is-your-assignment",
-          "title": "Where is Your Assignment?",
-          "concepts": [
-            "Assignment",
-            "Assignment Operator",
-            "`=`",
-            "Operator",
-            "Operand"
-          ]
-        },
-        {
-          "short": "difference-between-functions-and-procedures",
-          "title": "Difference Between Functions and Procedures",
-          "concepts": [
-            "Functions",
-            "Procedures",
-            "Side Effects",
-            "Functional Programming Paradigm"
-          ]
-        },
-        {
+          "concepts": [],
           "short": "conclusion",
-          "title": "Conclusion",
-          "concepts": [
-            "REPL",
-            "Interactive Text Adventures",
-            "Stories"
-          ]
+          "title": "Conclusion"
+        },
+        {
+          "concepts": [],
+          "short": "bonus-challenges",
+          "title": "Bonus Challenges"
         }
       ],
-      "title": "Hi There!"
+      "title": "Badgers, Badgers, Badgers"
     },
-    "teachers": {
-      "parts": [
-        {
-          "short": "prerequisites",
-          "title": "Prerequisites",
-          "concepts": []
-        },
-        {
-          "short": "age",
-          "title": "Age",
-          "concepts": []
-        },
-        {
-          "short": "time",
-          "title": "Time",
-          "concepts": []
-        },
-        {
-          "short": "rubrics",
-          "title": "Rubrics",
-          "concepts": []
-        },
-        {
-          "short": "resources",
-          "title": "Resources",
-          "concepts": []
-        },
-        {
-          "short": "encrypted-solutions",
-          "title": "Encrypted Solutions",
-          "concepts": []
-        },
-        {
-          "short": "other",
-          "title": "Other",
-          "concepts": []
-        },
-        {
-          "short": "next",
-          "title": "Next",
-          "concepts": []
-        },
-        {
-          "short": "contributing",
-          "title": "Contributing",
-          "concepts": []
-        },
-        {
-          "short": "copyright",
-          "title": "Copyright",
-          "concepts": []
-        }
-      ],
-      "title": "\ud83c\udf4e Welcome Teachers!"
+    "roll": {
+      "parts": [],
+      "title": "Dice Roll"
+    },
+    "battleship": {
+      "parts": [],
+      "title": "Hi There!"
     },
     "arrrgs": {
       "parts": [],
       "title": "Arrrgs"
     },
-    "workbook": {
-      "parts": [
-        {
-          "short": "open-github-in-incognito",
-          "title": "Open GitHub in Incognito",
-          "concepts": []
-        },
-        {
-          "short": "click-on-the-octocat",
-          "title": "Click on the Octocat",
-          "concepts": []
-        },
-        {
-          "short": "find-and-click-the-clone-or-download-button",
-          "title": "Find and Click the Clone or Download Button",
-          "concepts": []
-        },
-        {
-          "short": "make-sure-ssh",
-          "title": "Make Sure SSH",
-          "concepts": []
-        },
-        {
-          "short": "copy-to-clipboard",
-          "title": "Copy to Clipboard",
-          "concepts": []
-        },
-        {
-          "short": "pull-up-a-terminal",
-          "title": "Pull Up a Terminal",
-          "concepts": []
-        },
-        {
-          "short": "change-into-your-repos-directory",
-          "title": "Change Into Your `repos` Directory",
-          "concepts": []
-        },
-        {
-          "short": "enter-the-git-clone-command",
-          "title": "Enter the `git clone` Command",
-          "concepts": []
-        }
-      ],
-      "title": "Get the Workbook"
-    },
-    "bridge": {
+    "story": {
       "parts": [],
-      "title": "Bridge Keeper"
+      "title": "Story"
     },
     "lights": {
       "parts": [],
       "title": "Holiday Lights"
     },
+    "simon": {
+      "parts": [],
+      "title": "Simon"
+    },
+    "gen": {
+      "parts": [],
+      "title": "Character Generator"
+    },
+    "more": {
+      "title": "More Python3 Learning Resources",
+      "parts": [
+        {
+          "concepts": [],
+          "short": "dive-into-python-3",
+          "title": "Dive Into Python 3"
+        },
+        {
+          "concepts": [],
+          "short": "warning",
+          "title": "Warning"
+        }
+      ]
+    },
     "mylights": {
       "parts": [],
       "title": "My Lights Lib"
     },
+    "mtable": {
+      "parts": [],
+      "title": "Multiplication Tables"
+    },
+    "wordbomb": {
+      "parts": [],
+      "title": "Word Bomb"
+    },
     "eightball": {
       "parts": [],
       "title": "Magic Eightball"
+    },
+    "workbook": {
+      "title": "Get the Workbook",
+      "parts": [
+        {
+          "concepts": [],
+          "short": "open-github-in-incognito",
+          "title": "Open GitHub in Incognito"
+        },
+        {
+          "concepts": [],
+          "short": "click-on-the-octocat",
+          "title": "Click on the Octocat"
+        },
+        {
+          "concepts": [],
+          "short": "find-and-click-the-clone-or-download-button",
+          "title": "Find and Click the Clone or Download Button"
+        },
+        {
+          "concepts": [],
+          "short": "make-sure-ssh",
+          "title": "Make Sure SSH"
+        },
+        {
+          "concepts": [],
+          "short": "copy-to-clipboard",
+          "title": "Copy to Clipboard"
+        },
+        {
+          "concepts": [],
+          "short": "pull-up-a-terminal",
+          "title": "Pull Up a Terminal"
+        },
+        {
+          "concepts": [],
+          "short": "change-into-your-repos-directory",
+          "title": "Change Into Your `repos` Directory"
+        },
+        {
+          "concepts": [],
+          "short": "enter-the-git-clone-command",
+          "title": "Enter the `git clone` Command"
+        }
+      ]
+    },
+    "arena": {
+      "parts": [],
+      "title": "Arena"
+    },
+    "teachers": {
+      "title": "\ud83c\udf4e Welcome Teachers!",
+      "parts": [
+        {
+          "concepts": [],
+          "short": "prerequisites",
+          "title": "Prerequisites"
+        },
+        {
+          "concepts": [],
+          "short": "age",
+          "title": "Age"
+        },
+        {
+          "concepts": [],
+          "short": "time",
+          "title": "Time"
+        },
+        {
+          "concepts": [],
+          "short": "rubrics",
+          "title": "Rubrics"
+        },
+        {
+          "concepts": [],
+          "short": "resources",
+          "title": "Resources"
+        },
+        {
+          "concepts": [],
+          "short": "encrypted-solutions",
+          "title": "Encrypted Solutions"
+        },
+        {
+          "concepts": [],
+          "short": "other",
+          "title": "Other"
+        },
+        {
+          "concepts": [],
+          "short": "next",
+          "title": "Next"
+        },
+        {
+          "concepts": [],
+          "short": "contributing",
+          "title": "Contributing"
+        },
+        {
+          "concepts": [],
+          "short": "copyright",
+          "title": "Copyright"
+        }
+      ]
+    },
+    "pokeapi": {
+      "parts": [],
+      "title": "Pokemon API"
     }
   },
-  "summary": "",
   "order": [
     "workbook",
     "docs",
