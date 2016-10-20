@@ -306,7 +306,7 @@ Later we will add more intelligent things to do every time we repeat
 the loop.
 
 > 💬 JavaScript is *entirely* event driven having been originally
-> conceived to  born handle events in a web browser.
+> conceived to handle events in a web browser.
 
 ## [⏫ Conclusion](#)
 
