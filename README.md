@@ -121,8 +121,10 @@ recent version of Python.
   10. [**Printing to Same Line**](nyan/README.md#user-content--printing-to-same-line)
       <br>💡 `print()` ◦ `end=" "` ◦ `Line Buffering` ◦ `flush=True` ◦ `
 ` ◦ Line Returns
-  11. [**Conclusion**](nyan/README.md#user-content--conclusion)
-  12. [**Bonus Challenges**](nyan/README.md#user-content--bonus-challenges)
+  11. [**But WHY?!**](nyan/README.md#user-content--but-why)
+      <br>💡 Event Programming ◦ Event Loops
+  12. [**Conclusion**](nyan/README.md#user-content--conclusion)
+  13. [**Bonus Challenges**](nyan/README.md#user-content--bonus-challenges)
 10. [**Do You Like Waffles?** (`waffles`)](waffles/README.md)
   1. [**An Ancient Meme?**](waffles/README.md#user-content--an-ancient-meme)
   2. [**The Usual**](waffles/README.md#user-content--the-usual)

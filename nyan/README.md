@@ -17,8 +17,9 @@ importantly—how to stop them gracefully.
 9. [**Catching and Trapping Exceptions**](#user-content--catching-and-trapping-exceptions)
 10. [**Printing to Same Line**](#user-content--printing-to-same-line)
  1. [**Flushing**](#user-content--flushing)
-11. [**Conclusion**](#user-content--conclusion)
-12. [**Bonus Challenges**](#user-content--bonus-challenges)
+11. [**But WHY?!**](#user-content--but-why)
+12. [**Conclusion**](#user-content--conclusion)
+13. [**Bonus Challenges**](#user-content--bonus-challenges)
 
 ![](/assets/nyan.gif)
 
@@ -288,6 +289,24 @@ can add another parameter `flush=True`.
 
 Usually this is not a big deal but if it ever seems like something
 is not printing as expected this is usually the problem.
+
+## [⏫ But WHY?!](#)
+
+> Concepts: Event Programming, Event Loops
+
+The short answer is because life is an infinite loop of events
+happening and our responding to those events. Our programs are no
+different. It is no surprise then that this is the *exact* model
+for *all* games and other interactive services. 
+
+> 💬 You will remember that even the most basic levels of CodeCombat
+> involved some form of infinite loop.
+
+Later we will add more intelligent things to do every time we repeat
+the loop.
+
+> 💬 JavaScript is *entirely* event driven having been originally
+> conceived to  born handle events in a web browser.
 
 ## [⏫ Conclusion](#)
 
