@@ -39,7 +39,7 @@ has been one of the main server-side languages, however, even though
 it is losing ground to Node and Go as the
 [JAMStack.org](http://jamstack.org) model becomes more mainstream.
 
-## [⏫ Not for Games](#)
+## [⏫ Not for Games, No PyGame](#)
 
 > 💬 Use the right tool for the job.
 
