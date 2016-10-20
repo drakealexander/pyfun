@@ -26,6 +26,8 @@
  5. [**Other String Methods**](#user-content--other-string-methods)
 13. [**Exception: User Includes Spaces**](#user-content--exception-user-includes-spaces)
 14. [**Exception: User Interrupts with `ctrl-c`**](#user-content--exception-user-interrupts-with-ctrl-c)
+ 1. [**Everything Else**](#user-content--everything-else)
+ 2. [**And Finally**](#user-content--and-finally)
 15. [**Conclusion**](#user-content--conclusion)
 16. [**Bonus Challenges**](#user-content--bonus-challenges)
 
@@ -672,21 +674,14 @@ and tabs, from *both sides* of the string. The `.ltrim()` and
 
 ## [⏫ Exception: User Interrupts with `ctrl-c`](#)
 
-> Concepts: Catching Multiple Exceptions, `except`, `KeyboardError`
+> Concepts: Catching Multiple Exceptions, `except`, `KeyboardError`,
+> `else`, `finally`
 
 Finally, the bomb, catching the ugly `KeyboardInterrup` but you
 [already know how to do
 that](/nyan#user-content--make-is-stop). How do you combine catching
 the `AssertionError` with another? Let’s go back to our earlier
-version that uses the `assert` keyboard to demonstrate how. We could
-add it simply to the same one.
-
-```python
-except AssertionError, KeyboardError:
-    ...
-```
-
-Or we could make a line just for the `KeyboardError`:
+version that uses the `assert` keyboard to demonstrate how. 
 
 ```python
 except AssertionError:
@@ -698,6 +693,23 @@ except KeyboardError:
 
 That is right. You can have blocks for each individual exception that
 might possibly be thrown (also known as **raised**).
+
+### [⏫ Everything Else](#)
+
+Although we do not need one in this case the `else` block can contain
+code to do in case no exception happened at all. 
+
+> 💬 Frankly `else` is not common in the wild, but it is good to know.
+> Usually code following the `try` will just be executed next, which
+> keeps your code flatter (more pushed to the left).
+
+### [⏫ And Finally](#)
+
+The last possible block in the `try` family is `finally`, which is
+always executed no matter what, even if no exception is caught at all.
+
+> 💬 Again, `finally` is rarely used in cases where there are not
+> external locks and resources that need to be unlocked and released.
 
 ## [⏫ Conclusion](#)
 

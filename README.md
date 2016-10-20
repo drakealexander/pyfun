@@ -144,7 +144,7 @@ recent version of Python.
   13. [**Exception: User Includes Spaces**](waffles/README.md#user-content--exception-user-includes-spaces)
       <br>💡 Trimming Whitespace ◦ `.trim()` ◦ `.ltrim()` ◦ `.rtrim()`
   14. [**Exception: User Interrupts with `ctrl-c`**](waffles/README.md#user-content--exception-user-interrupts-with-ctrl-c)
-      <br>💡 Catching Multiple Exceptions ◦ `except` ◦ `KeyboardError`
+      <br>💡 Catching Multiple Exceptions ◦ `except` ◦ `KeyboardError` ◦ `else` ◦ `finally`
   15. [**Conclusion**](waffles/README.md#user-content--conclusion)
   16. [**Bonus Challenges**](waffles/README.md#user-content--bonus-challenges)
 10. [**More Python3 Learning Resources** (`more`)](more/README.md)
