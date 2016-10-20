@@ -1,5 +1,8 @@
 # [⏪ Do You Like Waffles?](/README.md)
 
+In this lesson you learn to give your program a minimal brain, one
+that can ask questions and make logical decisions about what it
+knows and under what conditions it is running.
 
 ## Table of Contents
 

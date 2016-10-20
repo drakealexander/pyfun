@@ -1,6 +1,7 @@
 # [⏪ Badgers, Badgers, Badgers](/README.md)
 
-
+In this lesson you learn how to teach your program to count and 
+repeat stuff for a specific number of times.
 
 ## Table of Contents
 

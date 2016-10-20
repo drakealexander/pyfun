@@ -1,7 +1,8 @@
 # [⏪ Nyan, Nyan, STOP!](/README.md)
 
-In this lesson you learn to repeat things over and over again
-with *loops*, why you would want to, and how to stop them gracefully.
+In this lesson you learn to repeat things over and over again with
+infinite *loops*. You also learn why you would want to and—most
+importantly—how to stop them gracefully.
 
 ## Table of Contents
 

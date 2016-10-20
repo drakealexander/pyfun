@@ -153,10 +153,16 @@ recent version of Python.
       <br>💡 Catching Multiple Exceptions ◦ `except` ◦ `KeyboardError` ◦ `else` ◦ `finally`
   15. [**Conclusion**](waffles/README.md#user-content--conclusion)
   16. [**Bonus Challenges**](waffles/README.md#user-content--bonus-challenges)
-11. [**More Python3 Learning Resources** (`more`)](more/README.md)
+11. [**Badgers, Badgers, Badgers** (`badgers`)](badgers/README.md)
+  1. [**How many badgers is that again?**](badgers/README.md#user-content--how-many-badgers-is-that-again)
+  2. [**How Long is True, True?**](badgers/README.md#user-content--how-long-is-true-true)
+      <br>💡 Conditions ◦ Booleans
+  3. [**Conclusion**](badgers/README.md#user-content--conclusion)
+  4. [**Bonus Challenges**](badgers/README.md#user-content--bonus-challenges)
+12. [**More Python3 Learning Resources** (`more`)](more/README.md)
   1. [**Dive Into Python 3**](more/README.md#user-content--dive-into-python-3)
   2. [**Warning**](more/README.md#user-content--warning)
-12. [**🍎 Welcome Teachers!** (`teachers`)](teachers/README.md)
+13. [**🍎 Welcome Teachers!** (`teachers`)](teachers/README.md)
   1. [**Prerequisites**](teachers/README.md#user-content--prerequisites)
   2. [**Age**](teachers/README.md#user-content--age)
   3. [**Time**](teachers/README.md#user-content--time)

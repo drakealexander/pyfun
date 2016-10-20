@@ -1,6 +1,7 @@
 # [⏪ Hi There!](/README.md)
 
-![](/assets/hi.gif)
+In this lesson you learn to let the user type something in and have
+your program remember it and use it.
 
 ## Table of Contents
 
@@ -10,6 +11,8 @@
 4. [**Where is Your Assignment?**](#user-content--where-is-your-assignment)
 5. [**Difference Between Functions and Procedures**](#user-content--difference-between-functions-and-procedures)
 6. [**Conclusion**](#user-content--conclusion)
+
+![](/assets/hi.gif)
 
 ## [⏫ The Usual](#)
 
