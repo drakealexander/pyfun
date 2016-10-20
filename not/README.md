@@ -74,7 +74,10 @@ why not use an *actual* game framework and language for that and stick
 with doing projects in Python that more closely resemble what you
 would actually use Python for in most jobs. This is why we feel an
 interactive story adventure, battleship, and other text-based games
-are a better investment of your time.
+are a better investment of your time—particularly those that flex
+your *regular expression*, `format()`, device learning, crunching,
+and algorithm muscles, which support engineering and *data science*
+applications as well.
 
 [Phaser.io]: http://phaser.io
 [Unity]: http://unity3d.com
