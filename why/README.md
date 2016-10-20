@@ -27,10 +27,20 @@ languages would take longer.
 
 ## [⏫ Everywhere](#)
 
-Well not *everywhere*. But anywhere there is a server there is
+Well not *everywhere* but anywhere there is a server there is
 generally Python. One place it is not is in the web browser. Those
 sites that have Python on the web are either using an interpreter
-written in 
+written in JavaScript or sending everything back and forth to a Linux
+server that runs the code.
+
+Python comes installed automatically on all Linux and Mac systems but
+needs to be updated. We take care of all of that on our `skilstak.sh`
+server and any of our other machines and images. If you are using your
+own computer you will need to make sure you have Python 3.5 or greater
+installed.
+
+> 💬 This is the main reason we continue to use and teach `python3` to
+> be sure we are getting Python 3 and not 2.6.
 
 ## [⏫ Powerful](#)
 
