@@ -16,10 +16,27 @@ Let’s take a look. Can you count them?
 
 [![](/assets/badgers.gif)](https://youtu.be/EIyixC9NsLI)
 
-The `badgers` script is a fun way to learn about loops that have a
-count to them. You will remember we already learned about the
-infinite version of the `while` loop (`while True`). Now let’s learn
-about other ways to use the `while` loop as well as the `for` loop.
+Ok, so there are 12 of them, 2 mushrooms, and a snake:
+
+* Repeats Three Times:
+  * 12 badgers
+  * 2 mushrooms
+* 12 badgers
+* 1 snake
+* Repeats Four Times:
+  * 12 badgers
+  * 2 mushrooms
+* 12 badgers
+* 1 snake
+* 12 badgers
+* 2 mushrooms
+
+These verses of the “song” will be our simple algorithm. Let’s code it
+and learn about ***finite loops*** in the process.
+
+> 💬 You will remember we already learned about the
+> infinite version of the `while` loop (`while True`) in
+> [Nyan](/nyan/README.md). 
 
 ## [⏫ How Long is True, True?](#)
 
