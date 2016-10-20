@@ -93,13 +93,14 @@ recent version of Python.
   1. [**The Usual**](hi/README.md#user-content--the-usual)
   2. [**Replacing World**](hi/README.md#user-content--replacing-world)
       <br>💡 Variables ◦ Operators ◦ `=` ◦ Constants
-  3. [**Prompting for Input**](hi/README.md#user-content--prompting-for-input)
+  3. [**Teaching a Computer to Remember**](hi/README.md#user-content--teaching-a-computer-to-remember)
+  4. [**Prompting for Input**](hi/README.md#user-content--prompting-for-input)
       <br>💡 `input()`
-  4. [**Where is Your Assignment?**](hi/README.md#user-content--where-is-your-assignment)
+  5. [**Where is Your Assignment?**](hi/README.md#user-content--where-is-your-assignment)
       <br>💡 Assignment ◦ Assignment Operator ◦ `=` ◦ Operator ◦ Operand
-  5. [**Difference Between Functions and Procedures**](hi/README.md#user-content--difference-between-functions-and-procedures)
+  6. [**Difference Between Functions and Procedures**](hi/README.md#user-content--difference-between-functions-and-procedures)
       <br>💡 Functions ◦ Procedures ◦ Side Effects ◦ Functional Programming Paradigm
-  6. [**Conclusion**](hi/README.md#user-content--conclusion)
+  7. [**Conclusion**](hi/README.md#user-content--conclusion)
       <br>💡 REPL ◦ Interactive Text Adventures ◦ Stories
 9. [**Nyan, Nyan, STOP!** (`nyan`)](nyan/README.md)
   1. [**Nyan What?**](nyan/README.md#user-content--nyan-what)

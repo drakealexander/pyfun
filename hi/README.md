@@ -7,10 +7,11 @@ your program remember it and use it.
 
 1. [**The Usual**](#user-content--the-usual)
 2. [**Replacing World**](#user-content--replacing-world)
-3. [**Prompting for Input**](#user-content--prompting-for-input)
-4. [**Where is Your Assignment?**](#user-content--where-is-your-assignment)
-5. [**Difference Between Functions and Procedures**](#user-content--difference-between-functions-and-procedures)
-6. [**Conclusion**](#user-content--conclusion)
+3. [**Teaching a Computer to Remember**](#user-content--teaching-a-computer-to-remember)
+4. [**Prompting for Input**](#user-content--prompting-for-input)
+5. [**Where is Your Assignment?**](#user-content--where-is-your-assignment)
+6. [**Difference Between Functions and Procedures**](#user-content--difference-between-functions-and-procedures)
+7. [**Conclusion**](#user-content--conclusion)
 
 ![](/assets/hi.gif)
 
@@ -54,6 +55,8 @@ about that later.
 > 👓 The verb *to vary* means to differ or change from one form to
 > another. The word *variable* comes from this and is also used in
 > algebra math.
+
+## [⏫ Teaching a Computer to Remember](#)
 
 Variables are how we get the computer and our script to remember
 things. Anything we put into a variable literally goes into the
