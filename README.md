@@ -50,8 +50,8 @@ recent version of Python.
       <br>💡 Python 2 v.s. 3 ◦ Libraries
 4. [**When Not to Pick Python** (`not`)](not/README.md)
   1. [**Concurrency**](not/README.md#user-content--concurrency)
-  2. [**Not a Web Language**](not/README.md#user-content--not-a-web-language)
-  3. [**Slow**](not/README.md#user-content--slow)
+  2. [**Slow**](not/README.md#user-content--slow)
+  3. [**Not a Web Language**](not/README.md#user-content--not-a-web-language)
   4. [**Not for Games**](not/README.md#user-content--not-for-games)
   5. [**No Python IDLE?**](not/README.md#user-content--no-python-idle)
 5. [**Short History of Python** (`history`)](history/README.md)
