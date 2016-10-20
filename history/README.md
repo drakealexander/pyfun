@@ -33,6 +33,8 @@ of the language.  This was really jarring and unheard of at the
 time. Today whitespace is commonly accepted as a part of syntax by
 many other languages.
 
+![](/assets/future-braces.gif)
+
 ## [⏫ Best First Language to Learn](#)
 
 Many blogs and articles have been written confirming this but perhaps
