@@ -5,12 +5,19 @@ repeat stuff for a specific number of times.
 
 ## Table of Contents
 
-1. [**How many badgers is that again?**](#user-content--how-many-badgers-is-that-again)
+1. [**The Usual**](#user-content--the-usual)
+2. [**How many badgers is that again?**](#user-content--how-many-badgers-is-that-again)
  1. [**How Long is True, True?**](#user-content--how-long-is-true-true)
  2. [**Everything Must Come to an End**](#user-content--everything-must-come-to-an-end)
-2. [**Teaching Our Program to Count**](#user-content--teaching-our-program-to-count)
-3. [**Conclusion**](#user-content--conclusion)
-4. [**Bonus Challenges**](#user-content--bonus-challenges)
+3. [**Teaching Our Program to Count**](#user-content--teaching-our-program-to-count)
+4. [**Conclusion**](#user-content--conclusion)
+5. [**Bonus Challenges**](#user-content--bonus-challenges)
+
+## [⏫ The Usual](#)
+
+You [know what to do](/hello/README.md). Create a script and have
+it print something just to make sure everything is setup correctly
+before we continue.
 
 ## [⏫ How many badgers is that again?](#)
 
@@ -76,6 +83,23 @@ It is not rude or incorrect to say that a computer knows *nothing*
 unless we teach it. In order to have our program stop after a certain
 number of repeated verses we first have to teach it to count.
 
+###
+
+> 💬 We already learned how to make our program remember stuff with
+> *variables* in [Hi](/hi/README.md).
+
+Let’s start by making our program remember a single number we will
+call `count`. We will put the number 0 in it.
+
+```python
+count = 0
+print(count)
+```
+
+So far we are not doing anything with it. We just print it to make
+sure our program is remembering `count` correctly.
+
+Now 
 
 
 ## [⏫ Conclusion](#)
