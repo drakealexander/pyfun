@@ -157,8 +157,9 @@ recent version of Python.
   16. [**Bonus Challenges**](waffles/README.md#user-content--bonus-challenges)
 11. [**Badgers, Badgers, Badgers** (`badgers`)](badgers/README.md)
   1. [**How many badgers is that again?**](badgers/README.md#user-content--how-many-badgers-is-that-again)
-  2. [**How Long is True, True?**](badgers/README.md#user-content--how-long-is-true-true)
-      <br>💡 Conditions ◦ Booleans
+      <br>💡 Counting ◦ Infinite ◦ Finite ◦ Boolean ◦ `while` ◦ Algorithms
+  2. [**Teaching Our Program to Count**](badgers/README.md#user-content--teaching-our-program-to-count)
+      <br>💡 Addition Operator ◦ `+` ◦ Augmented Assignment ◦ `+=`
   3. [**Conclusion**](badgers/README.md#user-content--conclusion)
   4. [**Bonus Challenges**](badgers/README.md#user-content--bonus-challenges)
 12. [**More Python3 Learning Resources** (`more`)](more/README.md)

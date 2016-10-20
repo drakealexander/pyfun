@@ -6,7 +6,9 @@ repeat stuff for a specific number of times.
 ## Table of Contents
 
 1. [**How many badgers is that again?**](#user-content--how-many-badgers-is-that-again)
-2. [**How Long is True, True?**](#user-content--how-long-is-true-true)
+ 1. [**How Long is True, True?**](#user-content--how-long-is-true-true)
+ 2. [**Everything Must Come to an End**](#user-content--everything-must-come-to-an-end)
+2. [**Teaching Our Program to Count**](#user-content--teaching-our-program-to-count)
 3. [**Conclusion**](#user-content--conclusion)
 4. [**Bonus Challenges**](#user-content--bonus-challenges)
 
@@ -53,13 +55,13 @@ It never ends. There are other things that are infinite as well, like
 > 💬 Don’t ever let anyone tell you there are not absolute truths in
 > the universe. There are.
 
-### Everything Must Come to an End
+### [⏫ Everything Must Come to an End](#)
 
 Stuff that has an ending is ***finite***, like our lives, our program,
 and each verse of the song. Things that are ***finite*** can be
 measured and counted. This is what we will do in this program.
 
-## Teaching Our Program to Count
+## [⏫ Teaching Our Program to Count](#)
 
 > Concepts: Addition Operator, `+`, Augmented Assignment, `+=`
 
