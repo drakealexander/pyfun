@@ -1,5 +1,8 @@
 # [⏪ Nyan, Nyan, STOP!](/README.md)
 
+In this lesson you learn to repeat things over and over again
+with *loops*, why you would want to, and how to stop them gracefully.
+
 ## Table of Contents
 
 1. [**Nyan What?**](#user-content--nyan-what)
@@ -23,7 +26,6 @@
 Unless you have been asleep for the last five years you have probably
 heard of the infamous Nyan Cat. If not here is a reminder link to
 the YouTube video for your enjoyment.
-
 
 [![](/assets/nyan-vid.gif)](https://youtu.be/QH2-TGUlwu4)
 

@@ -58,7 +58,13 @@ recent version of Python.
   1. [**Guido's Christmas Present Named After Monty Python**](history/README.md#user-content--guidos-christmas-present-named-after-monty-python)
   2. [**Whitespace Novelty**](history/README.md#user-content--whitespace-novelty)
   3. [**Best First Language to Learn**](history/README.md#user-content--best-first-language-to-learn)
-6. [**Hello World** (`hello`)](hello/README.md)
+6. [**The Python Command Interface** (`cli`)](cli/README.md)
+  1. [**Why CLI?**](cli/README.md#user-content--why-cli)
+      <br>💡 `python3`
+  2. [**Easter Eggs**](cli/README.md#user-content--easter-eggs)
+      <br>💡 Easter Eggs ◦ Zen of Python ◦ Python Longevity
+  3. [**Conclusion**](cli/README.md#user-content--conclusion)
+7. [**Hello World** (`hello`)](hello/README.md)
   1. [**History**](hello/README.md#user-content--history)
   2. [**Touch and Chmod**](hello/README.md#user-content--touch-and-chmod)
       <br>💡 `touch` ◦ `chmod +x` ◦ Permissions ◦ Executable ◦ Runnable ◦ File ◦ Script
@@ -83,7 +89,7 @@ recent version of Python.
   12. [**Do It Again**](hello/README.md#user-content--do-it-again)
       <br>💡 Repetition ◦ Athletic Software Engineering
   13. [**Conclusion**](hello/README.md#user-content--conclusion)
-7. [**Hi There!** (`hi`)](hi/README.md)
+8. [**Hi There!** (`hi`)](hi/README.md)
   1. [**The Usual**](hi/README.md#user-content--the-usual)
   2. [**Replacing World**](hi/README.md#user-content--replacing-world)
       <br>💡 Variables ◦ Operators ◦ `=` ◦ Constants
@@ -95,7 +101,7 @@ recent version of Python.
       <br>💡 Functions ◦ Procedures ◦ Side Effects ◦ Functional Programming Paradigm
   6. [**Conclusion**](hi/README.md#user-content--conclusion)
       <br>💡 REPL ◦ Interactive Text Adventures ◦ Stories
-8. [**Nyan, Nyan, STOP!** (`nyan`)](nyan/README.md)
+9. [**Nyan, Nyan, STOP!** (`nyan`)](nyan/README.md)
   1. [**Nyan What?**](nyan/README.md#user-content--nyan-what)
   2. [**The Usual**](nyan/README.md#user-content--the-usual)
   3. [**True or False**](nyan/README.md#user-content--true-or-false)
@@ -117,7 +123,7 @@ recent version of Python.
 ` ◦ Line Returns
   11. [**Conclusion**](nyan/README.md#user-content--conclusion)
   12. [**Bonus Challenges**](nyan/README.md#user-content--bonus-challenges)
-9. [**Do You Like Waffles?** (`waffles`)](waffles/README.md)
+10. [**Do You Like Waffles?** (`waffles`)](waffles/README.md)
   1. [**An Ancient Meme?**](waffles/README.md#user-content--an-ancient-meme)
   2. [**The Usual**](waffles/README.md#user-content--the-usual)
       <br>💡 Boilerplate ◦ `bin`
@@ -147,10 +153,10 @@ recent version of Python.
       <br>💡 Catching Multiple Exceptions ◦ `except` ◦ `KeyboardError` ◦ `else` ◦ `finally`
   15. [**Conclusion**](waffles/README.md#user-content--conclusion)
   16. [**Bonus Challenges**](waffles/README.md#user-content--bonus-challenges)
-10. [**More Python3 Learning Resources** (`more`)](more/README.md)
+11. [**More Python3 Learning Resources** (`more`)](more/README.md)
   1. [**Dive Into Python 3**](more/README.md#user-content--dive-into-python-3)
   2. [**Warning**](more/README.md#user-content--warning)
-11. [**🍎 Welcome Teachers!** (`teachers`)](teachers/README.md)
+12. [**🍎 Welcome Teachers!** (`teachers`)](teachers/README.md)
   1. [**Prerequisites**](teachers/README.md#user-content--prerequisites)
   2. [**Age**](teachers/README.md#user-content--age)
   3. [**Time**](teachers/README.md#user-content--time)

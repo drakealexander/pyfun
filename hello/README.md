@@ -1,6 +1,7 @@
 # [⏪ Hello World](/README.md)
 
-![](/assets/hello.gif)
+In this lesson you learn to how to create and run your first program
+from the command line.
 
 ## Table of Contents
 
@@ -23,6 +24,8 @@
 11. [**Final Comment**](#user-content--final-comment)
 12. [**Do It Again**](#user-content--do-it-again)
 13. [**Conclusion**](#user-content--conclusion)
+
+![](/assets/hello.gif)
 
 ## [⏫ History](#)
 
