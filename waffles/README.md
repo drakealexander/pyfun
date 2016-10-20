@@ -322,7 +322,7 @@ variable every time we want to run it, hummm.
 
 ## [⏫ Defining Our First ~~Procedure~~ Function](#)
 
-> Concepts: Defining Functions
+> Concepts: Defining Functions, Python Style Guidelines, PEP-008
 
 Turns out there is a way, define a ***function*** containing the code
 in its *block*. Then you can call it three times for each food.
@@ -347,6 +347,40 @@ print("Do, do, da, doop, can’t wait to get a mouthful.")
 > You might remember the technical difference between
 > a function and a procedure, which no one really distinguishes
 > anymore but we can for grins.
+
+### Keeping Python Stylish
+
+When you hear the word *style* you probably think of clothes more than
+you would code and programming but, believe me, there is plenty of
+room for style in your code. 
+
+The single most important thing to remember when dealing with style
+is **do not vary the style from the code that is already there**.
+This will get you shot in some programming circles. I am just looking
+out for you.
+
+If there is a second law it is *thou shalt use the style guide for the
+given language* if there is one. Thankfully there is a very clearly
+defined Python standards organization and a very clear standard about
+style. It contains everything from how many spaces to use, to how to
+name your functions, variables, and classes. The bottom line, **use
+it!** You will have a very difficult time justifying your choice not
+to follow the standard. Most of the time your code contributions will
+quietly be ignored and you will be marginalized silently by those who
+see you have no desire or understanding of the standard. Do not let
+that be you. Those impressions are very hard to undo.
+
+> 💬 It is still virtually unbearable to see mixed case variable and
+> function names used in CodeCombat.com and several popular O’Reilly
+> technical books when the [standard very clearly states using
+> underscores is preferred][naming].
+
+[naming]: https://www.python.org/dev/peps/pep-0008/#prescriptive-naming-conventions
+
+Take a moment eventually and read all of the [Python PEP-0008][pep]
+conventions so you start out right.
+
+[pep]: https://www.python.org/dev/peps/pep-0008
 
 ### [⏫ Assertions](#)
 
