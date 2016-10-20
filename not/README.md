@@ -38,6 +38,50 @@ running since the biggest hit is in the startup, but speed comparisons
 still show dramatic differences, differences that have caught the
 attention of many in the industry.
 
+## [⏫ Not for Games](#)
+
+> 💬 Use the right tool for the job.
+
+Even though you will run into tons of books, sites, courses, and
+people who claim PyGame is worthy of your time, Python is really
+*not* recognized by any industry as a game programming language.
+It is hard to find *any* decent indy game in PyGame (although there
+are some) and compared to other games released the percentage must
+be well below 1% (based on Steam, for example). 
+
+> 💬 The main problem with PyGame is packaging and distribution.
+
+You will rarely find a job posting asking for PyGame experience
+specifically, but you will find hundreds for the alternatives.
+Sure you can program games in it, and we do, but it really should
+not be your first choice, unless those games are largely text-based
+and run from the command line.
+
+Besides, if we follow the `import this` mantra that “there should
+be one–and preferably only one—obvious way to do it” and “one best
+way” then PyGame ain’t it—especially when things like [Phaser.io][],
+[PlayCanvas][], [Unity][], [Unreal Engine][], and [Electron][]
+exist. Front-end interfaces, games, and graphics are really dominated
+by web and native mobile technology.
+k
+> 💬 The same is true of the amazing [Kivy][] framework. As much as so many
+> of us want to see it succeed it just will never had the adoption
+> (and corporate backing) that the native and web alternatives will have.
+
+Sure you could program some small game projects in PyGame for fun, but
+why not use an *actual* game framework and language for that and stick
+with doing projects in Python that more closely resemble what you
+would actually use Python for in most jobs. This is why we feel an
+interactive story adventure, battleship, and other text-based games
+are a better investment of your time.
+
+[Phaser.io]: http://phaser.io
+[Unity]: http://unity3d.com
+[PlayCanvas]: http://playcanvas.com
+[Kivy]: http://kivy.org
+[Electron]: http://electron.atom.io
+[Unreal Engine]: https://www.unrealengine.com
+
 ## [⏫ No Python IDLE?](#)
 
 We cover a lot of concepts in this course, much more than most
