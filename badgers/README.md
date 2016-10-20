@@ -61,7 +61,20 @@ measured and counted. This is what we will do in this program.
 
 ## Teaching Our Program to Count
 
-TODO
+> Concepts: Addition Operator, `+`, Augmented Assignment, `+=`
+
+Between us, computers are, as Lord Gabe Newel (of Valve) says,
+“possibly the stupidest thing in the entire universe.”
+
+[![](/assets/gabe-stupidest.png)](https://youtu.be/dU1xS07N-FA?t=9m30s)
+
+*(Thanks again to Code.org for the video.)*
+
+It is not rude or incorrect to say that a computer knows *nothing*
+unless we teach it. In order to have our program stop after a certain
+number of repeated verses we first have to teach it to count.
+
+
 
 ## [⏫ Conclusion](#)
 
