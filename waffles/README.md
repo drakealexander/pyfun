@@ -471,7 +471,7 @@ might not be expected, but can happen.
 
 ## [⏫ Speaking of Lists (and Tuples)](#)
 
-> Concept: Lists, Tuples, `[]`, `()`, Immutable
+> Concepts: Lists, Tuples, `[]`, `()`, Immutable
 
 Ok, so we were not actually speaking about lists yet, but we sure
 are going to be. So might as well go over them now.

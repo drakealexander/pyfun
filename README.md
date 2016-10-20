@@ -137,6 +137,7 @@ recent version of Python.
   10. [**Handling the Other Exceptions**](waffles/README.md#user-content--handling-the-other-exceptions)
       <br>💡 Blue Sky Path ◦ Blue Sky Scenario ◦ Exceptional Path ◦ Exceptions
   11. [**Speaking of Lists (and Tuples)**](waffles/README.md#user-content--speaking-of-lists-and-tuples)
+      <br>💡 Lists ◦ Tuples ◦ `[]` ◦ `()` ◦ Immutable
   12. [**Exception: User Enters Variation of `yes`**](waffles/README.md#user-content--exception-user-enters-variation-of-yes)
       <br>💡 Compound Conditions ◦ `or` ◦ `and` ◦ Logic Errors ◦ `.startswith()` ◦ `.lower()` ◦ `in` ◦ Methods v.s. Functions ◦ String Methods ◦ Order of Operations ◦ `()` ◦ Regular Expressions
   13. [**Exception: User Includes Spaces**](waffles/README.md#user-content--exception-user-includes-spaces)
