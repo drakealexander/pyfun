@@ -10,6 +10,7 @@ repeat stuff for a specific number of times.
  1. [**How Long is True, True?**](#user-content--how-long-is-true-true)
  2. [**Everything Must Come to an End**](#user-content--everything-must-come-to-an-end)
 3. [**Teaching Our Program to Count**](#user-content--teaching-our-program-to-count)
+ 1. [**Creating a `count` Variable for Remembering**](#user-content--creating-a-count-variable-for-remembering)
 4. [**Conclusion**](#user-content--conclusion)
 5. [**Bonus Challenges**](#user-content--bonus-challenges)
 
@@ -83,10 +84,11 @@ It is not rude or incorrect to say that a computer knows *nothing*
 unless we teach it. In order to have our program stop after a certain
 number of repeated verses we first have to teach it to count.
 
-###
+### [⏫ Creating a `count` Variable for Remembering](#)
 
 > 💬 We already learned how to make our program remember stuff with
-> *variables* in [Hi](/hi/README.md).
+> *variables* in [*Hi
+> There!*](/hi/README.md#user-content--teaching-a-computer-to-remember).
 
 Let’s start by making our program remember a single number we will
 call `count`. We will put the number 0 in it.
@@ -98,8 +100,6 @@ print(count)
 
 So far we are not doing anything with it. We just print it to make
 sure our program is remembering `count` correctly.
-
-Now 
 
 
 ## [⏫ Conclusion](#)
