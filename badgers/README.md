@@ -11,8 +11,10 @@ repeat stuff for a specific number of times.
  2. [**Everything Must Come to an End**](#user-content--everything-must-come-to-an-end)
 3. [**Teaching Our Program to Count**](#user-content--teaching-our-program-to-count)
  1. [**Creating a `count` Variable for Remembering**](#user-content--creating-a-count-variable-for-remembering)
-4. [**Conclusion**](#user-content--conclusion)
-5. [**Bonus Challenges**](#user-content--bonus-challenges)
+ 2. [**Adding One to the Count**](#user-content--adding-one-to-the-count)
+4. [**But Mom, the Program Says Raise My Allowance**](#user-content--but-mom-the-program-says-raise-my-allowance)
+5. [**Conclusion**](#user-content--conclusion)
+6. [**Bonus Challenges**](#user-content--bonus-challenges)
 
 ## [⏫ The Usual](#)
 
@@ -73,7 +75,7 @@ measured and counted. This is what we will do in this program.
 
 > Concepts: Addition Operator, `+`, Augmented Assignment, `+=`
 
-Between us, computers are, as Lord Gabe Newel (of Valve) says,
+Computers are, as Lord Gabe Newel (of Valve) says,
 “possibly the stupidest thing in the entire universe.”
 
 [![](/assets/gabe-stupidest.png)](https://youtu.be/dU1xS07N-FA?t=9m30s)
@@ -98,9 +100,53 @@ count = 0
 print(count)
 ```
 
-So far we are not doing anything with it. We just print it to make
-sure our program is remembering `count` correctly.
+So far we are not doing anything with `count`, just making sure it
+is getting *assigned* correctly.
 
+### [⏫ Adding One to the Count](#)
+
+To tell our program to add one to `count` we use the ***additional
+operator***, the fancy name for plus `+`.
+
+```python
+```
+
+> 💬 This is the first time we have done actual math in our program but
+> we have seen the plus sign `+` before as the [join
+> operator](/hello/README.md#user-content--beads-on-a-necklace)
+
+## [⏫ But Mom, the Program Says Raise My Allowance](#)
+
+> Concepts: Difference Between Join and Addition Operators, Chores,
+> Allowance
+
+Even though we have not yet learned all the other math operators the
+fact that they can be used on *numbers or strings* produces some fun
+results.
+
+![](/assets/allowance.gif)
+
+There is a fun prank we like to imagine to show the difference between
+the two versions of the plus sign `+`. It goes like this. Pretend you
+are negotiating a raise in your allowance with your Mom or Dad. You
+get a dollar now and figure you could write a program to impress them
+with that suggests how much your chores are worth. They agree because
+it is so awesome that you are coding at such a young age. You tell
+them you only want one dollar a week and for some reason they let
+you write a program to calculate your allowance for a 4-week month,
+(shhhh, I know there is an easier way). The multiplication operator is
+an asterisk So you quickly write a
+program like the following:
+
+```python
+print("Enter the amount per week.")
+weekly = input("> ")
+print(weekly * 4)
+```
+
+![](/assets/allowance-prank.gif)
+
+Woot! 
 
 ## [⏫ Conclusion](#)
 

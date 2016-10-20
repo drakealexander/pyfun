@@ -162,8 +162,10 @@ recent version of Python.
       <br>💡 Counting ◦ Infinite ◦ Finite ◦ Boolean ◦ `while` ◦ Algorithms
   3. [**Teaching Our Program to Count**](badgers/README.md#user-content--teaching-our-program-to-count)
       <br>💡 Addition Operator ◦ `+` ◦ Augmented Assignment ◦ `+=`
-  4. [**Conclusion**](badgers/README.md#user-content--conclusion)
-  5. [**Bonus Challenges**](badgers/README.md#user-content--bonus-challenges)
+  4. [**But Mom, the Program Says Raise My Allowance**](badgers/README.md#user-content--but-mom-the-program-says-raise-my-allowance)
+      <br>💡 Difference Between Join and Addition Operators ◦ Chores ◦ Allowance
+  5. [**Conclusion**](badgers/README.md#user-content--conclusion)
+  6. [**Bonus Challenges**](badgers/README.md#user-content--bonus-challenges)
 12. [**More Python3 Learning Resources** (`more`)](more/README.md)
   1. [**Dive Into Python 3**](more/README.md#user-content--dive-into-python-3)
   2. [**Warning**](more/README.md#user-content--warning)
