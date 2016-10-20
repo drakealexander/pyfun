@@ -64,7 +64,7 @@ way” then PyGame ain’t it—especially when things like [Phaser.io][],
 [PlayCanvas][], [Unity][], [Unreal Engine][], and [Electron][]
 exist. Front-end interfaces, games, and graphics are really dominated
 by web and native mobile technology.
-k
+
 > 💬 The same is true of the amazing [Kivy][] framework. As much as so many
 > of us want to see it succeed it just will never had the adoption
 > (and corporate backing) that the native and web alternatives will have.
