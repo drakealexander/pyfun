@@ -18,12 +18,12 @@ Let’s take a look. Can you count them?
 
 Ok, so there are 12 of them, 2 mushrooms, and a snake:
 
-* Repeats Three Times:
+* repeat 3 times:
   * 12 badgers
   * 2 mushrooms
 * 12 badgers
 * 1 snake
-* Repeats Four Times:
+* repeat 4 times:
   * 12 badgers
   * 2 mushrooms
 * 12 badgers
